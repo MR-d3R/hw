@@ -1,0 +1,3 @@
+<img src="https://info.weather.yandex.net/63/3_white.ru.png?domain=ru" border="0" alt="������.������: �������"/>
+<img src="https://info.weather.yandex.net/30813/3_white.ru.png?domain=ru" border="0" alt="������.������: ���������"/>
+<img src="https://info.weather.yandex.net/30629/3_white.ru.png?domain=ru" border="0" alt="������.������: �����"/>
